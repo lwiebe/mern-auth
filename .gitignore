@@ -23,5 +23,6 @@ dist-ssr
 *.sln
 *.sw?
 
-/server/src/assets/*
-/server/.env
+server/node_modules
+server/.env
+*/.env
